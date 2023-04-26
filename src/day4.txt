@@ -1,3 +1,5 @@
 day 04 of git practice 
 
-changes made in github 
+changes made in github
+
+changes made in IJ
