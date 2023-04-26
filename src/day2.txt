@@ -1,1 +1,3 @@
-day 2 of Git classes
+day 02 of Git classes
+
+first change

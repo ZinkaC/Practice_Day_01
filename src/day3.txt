@@ -1,1 +1,3 @@
-day 3 of Git classes
+day 03 of Git classes
+
+first change
